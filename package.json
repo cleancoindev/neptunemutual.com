@@ -13,7 +13,7 @@
   "dependencies": {
     "@headlessui/react": "^1.4.3",
     "@lingui/react": "^3.13.2",
-    "gsap": "^3.9.1",
+    "gsap": "^3.10.3",
     "make-plural": "^7.1.0",
     "next": "^12.1.0",
     "react": "17.0.2",
